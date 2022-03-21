@@ -7,10 +7,10 @@ eureka:
   instance:
     hostname: localhost
     
- employee:
-  eid: 101
-  name:
-    first: Rishabh
-    middle:
-    last: Jain
+employee:
+ eid: 101
+ name:
+   first: Rishabh
+   middle:
+   last: Jain
   
