@@ -13,4 +13,6 @@ eureka:
     first: Rishabh
     middle:
     last: Jain
+    
+ environment: main
   
