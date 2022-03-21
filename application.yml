@@ -8,7 +8,7 @@ eureka:
     hostname: localhost
     
  employee:
-  eid: 101
+  eid: 102
   name:
     first: Rishabh
     middle:
